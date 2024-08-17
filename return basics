@@ -1,0 +1,4 @@
+def painter():
+    return "My name is John"
+    
+print(painter())
